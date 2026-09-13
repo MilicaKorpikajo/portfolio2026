@@ -24,8 +24,8 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Milica Krivokapic | Portfolio",
-  description: "Milica Krivokapic's portfolio website",
+  title: "Milica Korpikajo | Portfolio",
+  description: "Milica Korpikajo's portfolio website",
 }
 
 export default function RootLayout({

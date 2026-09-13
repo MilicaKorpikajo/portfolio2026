@@ -59,7 +59,7 @@ export default function Footer() {
         
   {/* Copyright - Right side on desktop */}
   <div className="text-xs ml-2 md:ml-0 md:text-sm text-muted-light dark:text-muted-dark md:order-2 md:text-right">
-          © {YEAR} Milica Krivokapic
+          © {YEAR} Milica Korpikajo
         </div>
       </div>
     </footer>

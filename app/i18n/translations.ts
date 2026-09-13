@@ -232,7 +232,7 @@ export const translations: Record<Language, RootTranslations> = {
     briljantAudit: {
       introductionTitle: "Introduction",
       introduction:
-        'This accessibility evaluation was prepared for the Briljant OSK website. The assessment was conducted by Milica Krivokapic (hereafter "the author") between 1 May and 20 June 2025. The work is based on the Web Content Accessibility Guidelines (WCAG) version 2.2, with a primary focus on conformity with Level A and AA success criteria. Where relevant, the report also provides recommendations related to AAA-level requirements or other measures that improve usability and accessibility.',
+        'This accessibility evaluation was prepared for the Briljant OSK website. The assessment was conducted by Milica Korpikajo (hereafter "the author") between 1 May and 20 June 2025. The work is based on the Web Content Accessibility Guidelines (WCAG) version 2.2, with a primary focus on conformity with Level A and AA success criteria. Where relevant, the report also provides recommendations related to AAA-level requirements or other measures that improve usability and accessibility.',
       objective:
         "The objective of the evaluation is to identify issues that may prevent or hinder the use of the site or the understanding of its content. Addressing these issues will improve the usability and accessibility of the service and help meet the obligations of the Finnish Act on the Provision of Digital Services. Accessibility is not only a legal requirement; it also supports an equal and high-quality web experience.",
       context:
@@ -429,7 +429,7 @@ export const translations: Record<Language, RootTranslations> = {
     briljantAudit: {
       introductionTitle: "Johdanto",
       introduction:
-        'Tämä saavutettavuusarviointi on laadittu Briljant OSK:in verkkosivustolle. Arvioinnin suoritti Milica Krivokapic (myöhemmin "laatija") aikavälillä 1.5–20.6.2025. Työ perustuu Verkkosisällön saavutettavuusohjeistuksen (WCAG) versioon 2.2, keskittyen erityisesti A- ja AA-tason kriteerien täyttymiseen. Tarvittaessa raportissa esitetään myös suosituksia, jotka liittyvät AAA-tason vaatimuksiin tai muihin käytettävyyttä ja saavutettavuutta parantaviin ratkaisuihin.',
+        'Tämä saavutettavuusarviointi on laadittu Briljant OSK:in verkkosivustolle. Arvioinnin suoritti Milica Korpikajo (myöhemmin "laatija") aikavälillä 1.5–20.6.2025. Työ perustuu Verkkosisällön saavutettavuusohjeistuksen (WCAG) versioon 2.2, keskittyen erityisesti A- ja AA-tason kriteerien täyttymiseen. Tarvittaessa raportissa esitetään myös suosituksia, jotka liittyvät AAA-tason vaatimuksiin tai muihin käytettävyyttä ja saavutettavuutta parantaviin ratkaisuihin.',
       objective:
         "Arvioinnin tavoitteena on tunnistaa ne ongelmakohdat, jotka voivat estää tai vaikeuttaa sivuston käyttöä tai sisällön hahmottamista. Korjaamalla nämä kohdat voidaan parantaa verkkopalvelun käytettävyyttä ja saavutettavuutta sekä täyttää digipalvelulain velvoitteet. Saavutettavuus ei ole vain lakisääteinen vaatimus, vaan se tukee yhdenvertaista ja laadukasta verkkopalvelukokemusta.",
       context:

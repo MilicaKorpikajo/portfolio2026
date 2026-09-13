@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Learning Playwright Testing | Milica Krivokapic",
+  title: "Learning Playwright Testing | Milica Korpikajo",
   description: "My journey learning Playwright - building smoke tests for this portfolio to develop automated testing skills.",
 };
 

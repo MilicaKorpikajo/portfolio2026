@@ -86,7 +86,7 @@ export default function ProfileSidebar() {
           >
           </Link>
           <div>
-            <Link href="/" className="text-lg font-bold hover:text-accent-light dark:hover:text-accent-dark transition-colors" aria-label="Go to home">Milica Krivokapic</Link>
+            <Link href="/" className="text-lg font-bold hover:text-accent-light dark:hover:text-accent-dark transition-colors" aria-label="Go to home">Milica Korpikajo</Link>
             <p className="text-sm text-muted-light dark:text-muted-dark">
               {t('sidebar.role')}
             </p>
@@ -125,7 +125,7 @@ export default function ProfileSidebar() {
               />
             </div>
           </Link>
-          <Link href="/" className="text-xl font-bold mt-1 hover:text-accent-light dark:hover:text-accent-dark transition-colors text-center" aria-label="Go to home">MILICA KRIVOKAPIC</Link>
+          <Link href="/" className="text-xl font-bold mt-1 hover:text-accent-light dark:hover:text-accent-dark transition-colors text-center" aria-label="Go to home">MILICA KORPIKAJO</Link>
           <p className="text-muted-light dark:text-muted-dark text-center text-sm whitespace-pre-line">
             {t('sidebar.role')}
           </p>
